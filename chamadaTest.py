@@ -1,8 +1,8 @@
 import requests
 import json
 from decimal import *
-from excelTest import heroRelation
-from excelTest import heroOption
+from heroFilter import heroRelation
+from heroFilter import heroOption
 from flask import jsonify
 
 def main():
