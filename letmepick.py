@@ -2,8 +2,8 @@ import flask
 import requests
 import logging
 from flask import request, jsonify
-from excelTest import heroRelation
-from excelTest import heroOption
+from heroFilter import heroRelation
+from heroFilter import heroOption
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True

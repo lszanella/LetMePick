@@ -14,12 +14,3 @@ def main():
     
 if __name__ == "__main__":
     main()
- #
- #
- # location = (r'C:\Users\Lucas_2\Documents\Workspace\letmepick\compatibility.xlsx')
- #
- #
- #
- #
- #
- #
